@@ -6,6 +6,9 @@ and close buttons Do you have enough karma for these tools and a trigger
 finger? This might help you prevent closing a question and making the community
 a little worse. 
 
+* Firefox add-on: under review
+* Chrome add-on: under review
+
 ![screenshot](screenshot.png)
 
 It's all too easy to read a question and quickly jump to the conclusion that
